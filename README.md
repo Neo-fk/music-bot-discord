@@ -1,4 +1,10 @@
-# Music-Bot-discord
+# ⚠️ DISCONTINUED - Music-Bot-discord
+
+**This project is no longer maintained and has been discontinued. No further updates or support will be provided.**
+
+---
+
+## Original Description
 Discord music bot with buttons. Play a best quality music.
 
 # Youtube Tutorial

@@ -1,12 +1,12 @@
 {
   "name": "Music-Bot-discord",
   "version": "1.0.0",
-  "description": "",
+  "description": "[DISCONTINUED] Discord music bot with buttons for playing high-quality music. Project archived - no longer maintained.",
   "main": "index.js",
   "scripts": {
     "test": "Thanks for using"
   },
-  "keywords": [],
+  "keywords": ["discord", "bot", "music", "discontinued", "archived", "buttons", "deprecated"],
   "author": "https://discord.gg/BYpGMHbfr7",
   "dependencies": {
     "@distube/ytpl": "^1.0.12",

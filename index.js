@@ -1,3 +1,13 @@
+/**
+ * ⚠️ DEPRECATED PROJECT - MUSIC BOT DISCORD
+ * 
+ * Status: DISCONTINUED as of August 30, 2026
+ * This project is maintained as a code archive only.
+ * No updates, bug fixes, or support available.
+ * 
+ * For maintained alternatives, see MIGRATION.md
+ */
+
 const { bprefix, developerID } = require("./config.json")
 const math = require("mathjs")
 const { config } = require("dotenv");
